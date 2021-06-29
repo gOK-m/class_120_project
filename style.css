@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to top right, #00ffff, #00ff00);
+    color: black;
+}
+div{
+    border: 5px solid black;
+}
